@@ -6447,4 +6447,7 @@ _ - any single char
 
 ALTER TABLE assignment_schema.DEPT
 MODIFY COLUMN DEPT_NO INT primary key;
+ALTER TABLE hr.DEPT
+MODIFY COLUMN DEPT_NO Int foreign key references assignments_schema.dept(dept_no);
+
 
