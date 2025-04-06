@@ -47,8 +47,8 @@ Python-Training-Sessions/
 ## 🚀 How to Use This Repository
 1. **Clone the repository** 📌
    ```sh
-   git clone https://github.com/Shrinidhi444/Practice-Tnp.git
-   cd Practice-Tnp
+   git clone https://github.com/Shrinidhi444/Practice.git
+   cd Practice
    ```
 2. **Navigate to the relevant topic** and start practicing.
 3. **Modify, test, and explore** different solutions.
