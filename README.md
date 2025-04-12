@@ -41,7 +41,7 @@ Python-Training-Sessions/
 │   ├── oops_concepts.py
 │   ├── data_structures.py
 │
-└── README.md (This file)
+└── README.md 
 ```
 
 ## 🚀 How to Use This Repository
