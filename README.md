@@ -11,7 +11,6 @@ This repository contains Python practice sessions conducted as part of the **Tra
 - File Handling
 - Data Structures & Algorithms (Lists, Stacks, Queues, Trees, Graphs)
 - SQL Integration with Python
-- Web Scraping & API Handling
 - Automation using Python (Scripting)
 - Mock Interview Questions & Problem Solving
 
